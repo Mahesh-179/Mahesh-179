@@ -1,21 +1,57 @@
-# 💫 About Me:
-### 👋 About Me<br><br>Hi, I'm **Mahesh Raj Lamsal** — a passionate Python enthusiast and aspiring **Backend Developer** from Nepal.  <br>I'm currently focused on mastering **Django** by building real-world web applications and improving my skills through hands-on projects.<br><br>🛠️ Projects I'm working on:<br>- Cafe Management System with PDF Billing & QR Code<br>- Online Flight Ticket Booking System<br>- Personal Portfolio using Django<br><br>🌱 Future Goals:<br>- Launch my own SaaS product<br>- Contribute to open-source Django projects<br>- Become a freelance Django developer<br><br>📫 How to reach me:  <br>- Email: maheshrajlamsal01@gmail.com   <br>- Portfolio: Coming Soon!<br>
+## Hi there! 👋
 
+### 🌟 Welcome to Mahesh Raj Lamsal's GitHub Profile 🚀
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mahesh-179&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mahesh-179&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-179&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+I'm Mahesh Raj Lamsal, avid Python developer and creator of projects ranging from cafe management systems to student management solutions. Let's dive into a comprehensive analysis of my GitHub activity and projects!
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mahesh-179&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+### 🚀 GitHub Activity and Performance Analysis:
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mahesh-179&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 💻 **Overall Activity:** 36 commits, 10 public repositories
+- 🌟 **Top Language:** Python
+- 📚 **Skill Set:** Proficient in Python development
+- 🎯 **Interests:** Projects focus on cafe management, student management, and more
 
----
-[![](https://visitcount.itsvg.in/api?id=Mahesh-179&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🔥 Coding Habits:
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 💬 **Commit Frequency:** Average of 1 commit per day
+- 🐍 **Primary Language:** Python
+
+### 🌟 Project Contributions:
+
+- 📁 **Repositories Created:** Includes Cafe Management System, Student Management System, and more
+- 🤝 **Contributions:** Limited contributions to other repositories
+
+### 🌐 GitHub Presence:
+
+- 👥 **Followers:** 0
+- ⭐ **Top Repository:** Cafe Management System
+
+### 📫 Connect with Me:
+
+- 🌐 [Visit My GitHub Profile](https://github.com/Mahesh-179)
+- 📧 Email: maheshraj.lamsal@example.com
+- 📱 LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/mahesh-raj-lamsal)
+
+### 🚀 More about Me:
+
+- 🎯 Tech Enthusiast passionate about Python
+- 🌱 Interested in creating fundamental projects
+- 👨‍💻 Eager to collaborate and enhance visibility on GitHub
+
+Let's connect, collaborate, and code! Explore my projects and reach out for potential opportunities. 
+
+### 👀 GitHub Stats:
+
+- ![Github Stats](https://github-readme-stats.vercel.app/api?username=Mahesh-179)
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-179)
+- [![Trophy](https://github-profile-trophy.vercel.app/?username=Mahesh-179)](https://github.com/Mahesh-179)
+- [![GitHub Streak](https://streak-stats.demolab.com/?user=Mahesh-179)](https://git.io/streak-stats)
+
+### 🛠️ Badges:
+- [![Visits Badge](https://badges.pufler.dev/visits/Mahesh-179/Mahesh-179)](https://github.com/Mahesh-179)
+- [![Repos Badge](https://badges.pufler.dev/repos/Mahesh-179)](https://github.com/Mahesh-179)
+- [![Gists Badge](https://badges.pufler.dev/gists/Mahesh-179)](https://github.com/Mahesh-179)
+
+Explore, collaborate, and code with Mahesh Raj Lamsal! 🌟
+
+Connect with me and let's build something amazing together! 🚀
