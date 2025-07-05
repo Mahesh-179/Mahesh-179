@@ -1,57 +1,21 @@
-## Hi there! 👋
+💫 About Me:
+Hi, I’m Mahesh Raj Lamsal, a 20-year-old BSc CSIT student currently in my 1st semester at Lumbini ICT Campus, Gaindakot. I’m a passionate Django developer, currently diving deep into Django and database technologies, with the goal of building a strong career in the tech field.
 
-### 🌟 Welcome to Mahesh Raj Lamsal's GitHub Profile 🚀
+I enjoy solving real-world problems with code and am constantly working on improving my backend development skills.
 
-I'm Mahesh Raj Lamsal, avid Python developer and creator of projects ranging from cafe management systems to student management solutions. Let's dive into a comprehensive analysis of my GitHub activity and projects!
+💻 Tech Stack:
+C CSS3 HTML5 JavaScript Python FastAPI Django DjangoREST MySQL Git AWS
 
-### 🚀 GitHub Activity and Performance Analysis:
+📊 GitHub Stats:
 
-- 💻 **Overall Activity:** 36 commits, 10 public repositories
-- 🌟 **Top Language:** Python
-- 📚 **Skill Set:** Proficient in Python development
-- 🎯 **Interests:** Projects focus on cafe management, student management, and more
 
-### 🔥 Coding Habits:
 
-- 💬 **Commit Frequency:** Average of 1 commit per day
-- 🐍 **Primary Language:** Python
 
-### 🌟 Project Contributions:
 
-- 📁 **Repositories Created:** Includes Cafe Management System, Student Management System, and more
-- 🤝 **Contributions:** Limited contributions to other repositories
 
-### 🌐 GitHub Presence:
+🏆 GitHub Trophies
 
-- 👥 **Followers:** 0
-- ⭐ **Top Repository:** Cafe Management System
 
-### 📫 Connect with Me:
+🔝 Top Contributed Repo
 
-- 🌐 [Visit My GitHub Profile](https://github.com/Mahesh-179)
-- 📧 Email: maheshraj.lamsal@example.com
-- 📱 LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/mahesh-raj-lamsal)
 
-### 🚀 More about Me:
-
-- 🎯 Tech Enthusiast passionate about Python
-- 🌱 Interested in creating fundamental projects
-- 👨‍💻 Eager to collaborate and enhance visibility on GitHub
-
-Let's connect, collaborate, and code! Explore my projects and reach out for potential opportunities. 
-
-### 👀 GitHub Stats:
-
-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=Mahesh-179)
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-179)
-- [![Trophy](https://github-profile-trophy.vercel.app/?username=Mahesh-179)](https://github.com/Mahesh-179)
-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Mahesh-179)](https://git.io/streak-stats)
-
-### 🛠️ Badges:
-- [![Visits Badge](https://badges.pufler.dev/visits/Mahesh-179/Mahesh-179)](https://github.com/Mahesh-179)
-- [![Repos Badge](https://badges.pufler.dev/repos/Mahesh-179)](https://github.com/Mahesh-179)
-- [![Gists Badge](https://badges.pufler.dev/gists/Mahesh-179)](https://github.com/Mahesh-179)
-
-Explore, collaborate, and code with Mahesh Raj Lamsal! 🌟
-
-Connect with me and let's build something amazing together! 🚀
