@@ -1,95 +1,81 @@
-<!-- Typing intro like terminal boot -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1500&color=00ff99&center=true&width=650&lines=Initializing+Mahesh-179...;Loading+Python+...;Starting+Django+projects...;Welcome+to+my+GitHub+Profile!" alt="Typing animation" />
+<!--
+README.md for Mahesh Lamsal — Python Developer portfolio-style profile README
+-->
+
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif" alt="Typing animation" />
+</p>
+
+<h1 align="center" style="color:#39ff14; text-shadow: 0 0 10px #39ff14, 0 0 20px #1e90ff;">
+  Hi, I'm <b>Mahesh Lamsal</b> <br/>
+  <sub><i>Python Developer</i></sub>
 </h1>
 
-<div align="center" style="margin-top: -20px;">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Code animation" width="200" />
-</div>
-
----
-
-## 🎞️ About Me
-
-> “In a world ruled by data and logic, I’m the storyteller through code.  
-> From Python scripts to Django webs, I craft backend solutions that matter.  
-> A student on a quest, mastering databases, version control, and automation —  
-> Building a future where every app tells a story.”  
-
----
-
-## 🛠️ Tech Stack & Tools — Not Just Icons, But What They Mean
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />  
-  <em>My primary language — clean, versatile, and powerful.</em><br><br>
-
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />  
-  <em>The framework where logic meets magic.</em><br><br>
-
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />  
-  <em>Data’s guardian — structuring and storing my world.</em><br><br>
-
-  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />  
-  <em>My code’s history and collaboration lifeline.</em>
+  <a href="#about-me" style="color:#39ff14; text-decoration:none;">About Me</a> • 
+  <a href="#tech-stack" style="color:#39ff14; text-decoration:none;">Tech Stack</a> • 
+  <a href="#projects" style="color:#39ff14; text-decoration:none;">Projects</a> • 
+  <a href="#contact" style="color:#39ff14; text-decoration:none;">Contact</a>
 </p>
 
 ---
 
-## 🎯 Featured Projects
+## About Me <a name="about-me"></a>
 
-<div align="center" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-  
-  <a href="https://github.com/Mahesh-179/YOUR-PROJECT-1" style="text-decoration:none; width:280px; border-radius: 10px; overflow: hidden; box-shadow: 0 0 15px #00ff99;">
-    <img src="https://raw.githubusercontent.com/Mahesh-179/YOUR-PROJECT-1/main/demo.png" alt="Project 1 Demo" style="width: 100%; height: auto;" />
-    <h3 style="text-align:center; background:#111; color:#00ff99; margin: 0; padding: 10px;">Project 1: Cool Django App</h3>
-    <p style="text-align:center; color:#ccc; background:#222; padding: 5px 10px; margin: 0;">
-      A sleek web app built with Django that does XYZ and automates ABC.
-    </p>
-  </a>
+👋 I am passionate about Python programming, building efficient and scalable solutions, and continuously improving my skills.
 
-  <a href="https://github.com/Mahesh-179/YOUR-PROJECT-2" style="text-decoration:none; width:280px; border-radius: 10px; overflow: hidden; box-shadow: 0 0 15px #00ff99;">
-    <img src="https://raw.githubusercontent.com/Mahesh-179/YOUR-PROJECT-2/main/demo.png" alt="Project 2 Demo" style="width: 100%; height: auto;" />
-    <h3 style="text-align:center; background:#111; color:#00ff99; margin: 0; padding: 10px;">Project 2: Python CLI Tool</h3>
-    <p style="text-align:center; color:#ccc; background:#222; padding: 5px 10px; margin: 0;">
-      A command-line interface tool to simplify daily tasks and automate workflows.
-    </p>
-  </a>
-
-</div>
+- 📚 Currently learning advanced Python, Django, and database management.
+- 💡 I love turning ideas into clean, functional code.
+- 🌱 Interested in data science, AI, and backend development.
 
 ---
 
-## 📊 GitHub Stats
+## Tech Stack <a name="tech-stack"></a>
 
-<div align="center" style="display: flex; gap: 25px; flex-wrap: wrap; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahesh-179&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" style="border-radius: 15px; box-shadow: 0 0 15px #00ff99;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mahesh-179&theme=radical&hide_border=true" alt="GitHub Streak" style="border-radius: 15px; box-shadow: 0 0 15px #00ff99;" />
-</div>
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+|---|---|---|---|
 
 ---
 
-## 🔗 Connect With Me
+## Projects <a name="projects"></a>
+
+### [Awesome Python Calculator](https://github.com/yourusername/python-calculator)  
+A modern calculator CLI tool built using Python OOP concepts.  
+⭐ Features clean modular code, unit tests, and supports addition, subtraction, multiplication, and division.
+
+### [Django Blog Platform](https://github.com/yourusername/django-blog)  
+A full-stack blog application with user authentication, CRUD operations, and responsive UI.
+
+### [Data Visualizer](https://github.com/yourusername/data-visualizer)  
+Python tool to parse CSV files and generate beautiful graphs using Matplotlib.
+
+---
+
+## Contact Me <a name="contact"></a>
+
+<p>
+  <a href="mailto:mahesh@example.com" style="color:#39ff14; text-decoration:none;">📧 Email</a> • 
+  <a href="https://linkedin.com/in/maheshlamsal" target="_blank" style="color:#39ff14; text-decoration:none;">🔗 LinkedIn</a> • 
+  <a href="https://github.com/maheshlamsal" target="_blank" style="color:#39ff14; text-decoration:none;">🐙 GitHub</a>
+</p>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=maheshlamsal&show_icons=true&theme=dark&count_private=true&hide_title=true)](https://github.com/maheshlamsal)
+
+---
 
 <p align="center">
-  <a href="mailto:maheshlamsal179@gmail.com" style="margin: 0 10px;"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" style="margin: 0 10px;"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/Mahesh-179" style="margin: 0 10px;"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://yourdomain.com/Mahesh_Lamsal_Resume.pdf" target="_blank" style="display:inline-block; padding: 12px 30px; border: 2px solid #39ff14; color: #39ff14; border-radius: 30px; font-weight: 600; text-decoration: none; box-shadow: 0 0 8px #39ff14, 0 0 15px #1e90ff;">
+    📄 Download Resume
+  </a>
 </p>
 
 ---
 
-## 🎭 Programming Humor
-
-<div align="center" style="font-style: italic; color: #00ff99; font-size: 1.2rem;">
+<footer align="center" style="margin-top: 3rem; color: #39ff14; font-size: 0.9rem;">
+  <p>© 2025 Mahesh Lamsal</p>
   <p>
-    "Why do programmers prefer dark mode?<br/>
-    Because light attracts bugs!" 🐛😂
+    <a href="https://github.com/maheshlamsal" style="color:#39ff14;">🐙 GitHub</a> •
+    <a href="https://linkedin.com/in/maheshlamsal" style="color:#39ff14;">🔗 LinkedIn</a> •
+    <a href="https://twitter.com/yourhandle" style="color:#39ff14;">🐦 Twitter</a>
   </p>
-</div>
-
----
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=00ff99" alt="Thanks for visiting" />
-</div>
+</footer>
