@@ -1,81 +1,21 @@
-<!--
-README.md for Mahesh Lamsal — Python Developer portfolio-style profile README
--->
+# 💫 About Me:
+I’m currently building **Python & Django Projects**<br>- 🌱 Learning full-stack web development & APIs<br>- ⚡ Exploring CLI apps, database systems, and automation<br>- 💬 Ask me about Python, OOPs, Django, Git, CLI projects<br>- 📫 Reach me at: **maheshrajlamsal01@gmail.com**
 
-<p align="center">
-  <img width="250" src="https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif" alt="Typing animation" />
-</p>
 
-<h1 align="center" style="color:#39ff14; text-shadow: 0 0 10px #39ff14, 0 0 20px #1e90ff;">
-  Hi, I'm <b>Mahesh Lamsal</b> <br/>
-  <sub><i>Python Developer</i></sub>
-</h1>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mahesh-179&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Mahesh-179&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-179&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <a href="#about-me" style="color:#39ff14; text-decoration:none;">About Me</a> • 
-  <a href="#tech-stack" style="color:#39ff14; text-decoration:none;">Tech Stack</a> • 
-  <a href="#projects" style="color:#39ff14; text-decoration:none;">Projects</a> • 
-  <a href="#contact" style="color:#39ff14; text-decoration:none;">Contact</a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Mahesh-179&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Mahesh-179&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## About Me <a name="about-me"></a>
-
-👋 I am passionate about Python programming, building efficient and scalable solutions, and continuously improving my skills.
-
-- 📚 Currently learning advanced Python, Django, and database management.
-- 💡 I love turning ideas into clean, functional code.
-- 🌱 Interested in data science, AI, and backend development.
-
----
-
-## Tech Stack <a name="tech-stack"></a>
-
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-|---|---|---|---|
-
----
-
-## Projects <a name="projects"></a>
-
-### [Awesome Python Calculator](https://github.com/yourusername/python-calculator)  
-A modern calculator CLI tool built using Python OOP concepts.  
-⭐ Features clean modular code, unit tests, and supports addition, subtraction, multiplication, and division.
-
-### [Django Blog Platform](https://github.com/yourusername/django-blog)  
-A full-stack blog application with user authentication, CRUD operations, and responsive UI.
-
-### [Data Visualizer](https://github.com/yourusername/data-visualizer)  
-Python tool to parse CSV files and generate beautiful graphs using Matplotlib.
-
----
-
-## Contact Me <a name="contact"></a>
-
-<p>
-  <a href="mailto:mahesh@example.com" style="color:#39ff14; text-decoration:none;">📧 Email</a> • 
-  <a href="https://linkedin.com/in/maheshlamsal" target="_blank" style="color:#39ff14; text-decoration:none;">🔗 LinkedIn</a> • 
-  <a href="https://github.com/maheshlamsal" target="_blank" style="color:#39ff14; text-decoration:none;">🐙 GitHub</a>
-</p>
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=maheshlamsal&show_icons=true&theme=dark&count_private=true&hide_title=true)](https://github.com/maheshlamsal)
-
----
-
-<p align="center">
-  <a href="https://yourdomain.com/Mahesh_Lamsal_Resume.pdf" target="_blank" style="display:inline-block; padding: 12px 30px; border: 2px solid #39ff14; color: #39ff14; border-radius: 30px; font-weight: 600; text-decoration: none; box-shadow: 0 0 8px #39ff14, 0 0 15px #1e90ff;">
-    📄 Download Resume
-  </a>
-</p>
-
----
-
-<footer align="center" style="margin-top: 3rem; color: #39ff14; font-size: 0.9rem;">
-  <p>© 2025 Mahesh Lamsal</p>
-  <p>
-    <a href="https://github.com/maheshlamsal" style="color:#39ff14;">🐙 GitHub</a> •
-    <a href="https://linkedin.com/in/maheshlamsal" style="color:#39ff14;">🔗 LinkedIn</a> •
-    <a href="https://twitter.com/yourhandle" style="color:#39ff14;">🐦 Twitter</a>
-  </p>
-</footer>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
