@@ -1,21 +1,79 @@
-# 💫 About Me:
-I’m currently building **Python & Django Projects**<br>- 🌱 Learning full-stack web development & APIs<br>- ⚡ Exploring CLI apps, database systems, and automation<br>- 💬 Ask me about Python, OOPs, Django, Git, CLI projects<br>- 📫 Reach me at: **maheshrajlamsal01@gmail.com**
+<!-- Banner or Hero Image -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/3c/d2/80/3cd2801d47bb40731439eafab3a4215c.gif" width="800px" />
+</p>
 
+<h1 align="center">Hello world, I'm Mahesh Lamsal 👋</h1>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mahesh-179&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mahesh-179&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-179&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">Making machines talk, one line of code at a time.</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mahesh-179&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MaheshLamsal&style=flat-square&color=blue" alt="Profile views" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mahesh-179&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🌱 I’m currently learning **AI/ML/NLP & Django**
+- 🌐 My portfolio: [maheshlamsal.github.io](https://maheshlamsal.github.io) *(create this if not yet!)*
+- 📫 Reach me at: [maheshlamsal012@gmail.com](mailto:maheshlamsal012@gmail.com)
+
+---
+
+### 🔗 Connect with me
+
+<p>
+  <a href="https://linkedin.com/in/your-link" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,jupyter,mysql,js,html,css,vscode,github,git,linux" />
+</p>
+
+---
+
+### 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshLamsal&layout=compact&theme=radical)
+
+---
+
+### 📈 GitHub Stats
+
+![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaheshLamsal&show_icons=true&theme=tokyonight)
+
+---
+
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MaheshLamsal&theme=tokyonight)
+
+---
+
+### 🎨 Art Corner
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/27/fb/1a/27fb1a582af376f85df7e5dbac2b3f45.gif" height="200"/>
+</p>
+
+---
+
+### 💬 Quote
+
+> *"Code is like humor. When you have to explain it, it’s bad."*
+
+---
+
+### 🏆 GitHub Achievements
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=MaheshLamsal&theme=tokyonight&no-frame=true" />
+</p>
