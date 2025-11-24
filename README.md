@@ -1,79 +1,19 @@
-<!-- Banner or Hero Image -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/3c/d2/80/3cd2801d47bb40731439eafab3a4215c.gif" width="800px" />
-</p>
+<h1 align="center">Hi 👋, I'm Mahesh Raj Lamsal</h1>
+<h3 align="center">BSc CSIT Student at Prithvi Narayan Campus | Aspiring Backend Developer (Python/Django)</h3>
 
-<h1 align="center">Hello world, I'm Mahesh Lamsal 👋</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahesh-179&label=Profile%20views&color=0e75b6&style=flat" alt="mahesh-179" /> </p>
 
-<p align="center">Making machines talk, one line of code at a time.</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahesh-179" alt="mahesh-179" /></a> </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MaheshLamsal&style=flat-square&color=blue" alt="Profile views" />
-</p>
-
----
-
-- 🌱 I’m currently learning **AI/ML/NLP & Django**
-- 🌐 My portfolio: [maheshlamsal.github.io](https://maheshlamsal.github.io) *(create this if not yet!)*
-- 📫 Reach me at: [maheshlamsal012@gmail.com](mailto:maheshlamsal012@gmail.com)
-
----
-
-### 🔗 Connect with me
-
-<p>
-  <a href="https://linkedin.com/in/your-link" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 🛠️ Languages & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,jupyter,mysql,js,html,css,vscode,github,git,linux" />
-</p>
-
----
-
-### 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshLamsal&layout=compact&theme=radical)
-
----
-
-### 📈 GitHub Stats
-
-![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaheshLamsal&show_icons=true&theme=tokyonight)
-
----
-
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MaheshLamsal&theme=tokyonight)
-
----
-
-### 🎨 Art Corner
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/27/fb/1a/27fb1a582af376f85df7e5dbac2b3f45.gif" height="200"/>
-</p>
-
----
-
-### 💬 Quote
-
-> *"Code is like humor. When you have to explain it, it’s bad."*
-
----
-
-### 🏆 GitHub Achievements
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=MaheshLamsal&theme=tokyonight&no-frame=true" />
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesh-179&show_icons=true&locale=en&layout=compact" alt="mahesh-179" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahesh-179&show_icons=true&locale=en" alt="mahesh-179" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahesh-179&" alt="mahesh-179" /></p>
