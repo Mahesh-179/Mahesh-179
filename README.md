@@ -1,29 +1,33 @@
-<!-- ================= MATRIX HACKER HEADER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=220&text=Mahesh%20Lamsal&fontSize=45&fontColor=00ff00&animation=twinkling"/>
+<h1 align="center">Hi 👋, I'm Mahesh Raj Lamsal</h1>
+<h3 align="center">BSc CSIT Student at Prithvi Narayan Campus | Aspiring Backend Developer (Python/Django)</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahesh-179&label=Profile%20views&color=0e75b6&style=flat" alt="mahesh-179" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahesh-179" alt="mahesh-179" /></a> </p>
+
+- 🔭 I’m currently working on **Django Bank Management System**
+
+- 🌱 I’m currently learning **Django, MySQL, Git/GitHub, REST APIs, Cybersecurity fundamentals**
+
+- 👯 I’m looking to collaborate on **Django Web Applications / Backend Projects**
+
+- 🤝 I’m looking for help with **Django best practices, deployment & security basics**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Mahesh-179](https://github.com/Mahesh-179)
+
+- 📫 How to reach me **maheshrajlamsal01@gmail.com**
+
+- 📄 Know about my experiences [Student | BSc CSIT (Aspiring Django Developer)](Student | BSc CSIT (Aspiring Django Developer))
+
+- ⚡ Fun fact **I build backend logic before designing the UI 😄**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-<!-- ================= TYPING EFFECT ================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=600&color=00ff00&center=true&vCenter=true&width=850&lines=Django+Backend+Developer;Python+%7C+APIs+%7C+Databases;Tech+Nerd+from+Nepal;Future+Cybersecurity+Explorer" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesh-179&show_icons=true&locale=en&layout=compact" alt="mahesh-179" /></p>
 
-## 🖤 SYSTEM INFO
-```diff
-+ Name: Mahesh Lamsal
-+ Role: Django Backend Developer
-+ Language: Python 🐍
-+ Focus: APIs / Databases / Security
-+ Mindset: Build • Break • Hack • Scale
-+ Future: Cybersecurity 🔐
-⚙️ TECH STACK
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,django,mysql,git,github,linux,vscode&theme=dark" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=wave&height=80&section=footer&text=HACKER%20MODE%20ON&fontColor=00ff00&fontSize=20&animation=twinkling"/> </p>
-📊 LIVE GITHUB STATS
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mahesh-179&show_icons=true&theme=dark&hide_border=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-179&layout=compact&theme=dark&hide_border=true" height="180"/> </p>
-🐍 MATRIX CONTRIBUTION SNAKE
-<p align="center"> <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" /> </p>
-🌐 CONNECT WITH ME
-<p align="center"> <a href="mailto:maheshrajlamsal01@gmail.com"> <img src="https://img.shields.io/badge/Gmail-ff1744?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/mahesh-raj-lamsal-264a8b340/"> <img src="https://img.shields.io/badge/LinkedIn-00ff00?style=for-the-badge&logo=linkedin&logoColor=000000"/> </a> </p>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=140&section=footer"/> </p> <h3 align="center"> 💀 Code • Hack • Repeat 💀 </h3> ```
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahesh-179&show_icons=true&locale=en" alt="mahesh-179" /></p>
